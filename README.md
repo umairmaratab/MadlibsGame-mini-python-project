@@ -14,5 +14,6 @@ I love to {verb1}. Stay tuned and {verb2} Like you are {famous_person}!
 ## Here we have to place adjectives, verb1,verb2 and noun at the end.
 
 # Running this project
-1. Open a terminal and do '''python madlib.py'''
-2. It will ask for inputs, after provding inputs it will output the madlib.
+1. copy madlib.py code or download the whole file.
+2. Open a terminal and execute this command ```python madlib.py```
+3. It will ask for inputs, after provding inputs it will output the madlib.
